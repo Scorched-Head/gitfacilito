@@ -91,8 +91,9 @@ h1,h2,h3,h4,h5,h6{
 .info h2{
     font-family: 'Signika Negative', sans-serif;
     text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
-    font-size: 50px;
-    margin: 15px 0;
+    font-size: 75px;
+    color: red;
+	margin: 45px 0;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -135,7 +136,7 @@ h1,h2,h3,h4,h5,h6{
     background-color: green;
     color: black;
     font-weight: 700;
-    margin: 15px 0;
+    margin: 30px 0;
     display: inline-block;
     transition: 0.3s;
     box-shadow: 0px 2px 6px red;
