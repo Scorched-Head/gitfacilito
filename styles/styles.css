@@ -131,10 +131,10 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 50px;
     border-radius: 50px;
-    border: 2px solid Blue;
-    background-color: yellow;
+    border: 5px solid Blue;
+    background-color: green;
     color: black;
-    font-weight: 600;
+    font-weight: 700;
     margin: 15px 0;
     display: inline-block;
     transition: 0.3s;
